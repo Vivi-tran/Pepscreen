@@ -1,0 +1,282 @@
+The predicted pKd/pKi value is:4.204 
+The predicted dg (kcal/mol) value is:-5.711 
+The predicted pK value is:4.36 
+The predicted dg (kcal/mol) value is:-5.923 
+The predicted pK value is:6.416 
+The predicted dg (kcal/mol) value is:-8.716 
+The predicted pK value is:6.416 
+The predicted dg (kcal/mol) value is:-8.716 
+The predicted pK value is:6.416 
+The predicted dg (kcal/mol) value is:-8.716 
+The predicted pK value is:6.266 
+The predicted dg (kcal/mol) value is:-8.513 
+The predicted pK value is:5.892 
+The predicted dg (kcal/mol) value is:-8.004 
+The predicted pK value is:5.712 
+The predicted dg (kcal/mol) value is:-7.76 
+The predicted pK value is:6.259 
+The predicted dg (kcal/mol) value is:-8.503 
+The predicted pK value is:6.511 
+The predicted dg (kcal/mol) value is:-8.845 
+The predicted pK value is:4.892 
+The predicted dg (kcal/mol) value is:-6.646 
+The predicted pK value is:5.918 
+The predicted dg (kcal/mol) value is:-8.04 
+The predicted pK value is:6.827 
+The predicted dg (kcal/mol) value is:-9.275 
+The predicted pK value is:6.331 
+The predicted dg (kcal/mol) value is:-8.601 
+The predicted pK value is:6.099 
+The predicted dg (kcal/mol) value is:-8.286 
+The predicted pK value is:5.663 
+The predicted dg (kcal/mol) value is:-7.693 
+The predicted pK value is:6.095 
+The predicted dg (kcal/mol) value is:-8.28 
+The predicted pK value is:6.992 
+The predicted dg (kcal/mol) value is:-9.499 
+The predicted pK value is:6.387 
+The predicted dg (kcal/mol) value is:-8.677 
+The predicted pK value is:6.227 
+The predicted dg (kcal/mol) value is:-8.46 
+The predicted pK value is:5.513 
+The predicted dg (kcal/mol) value is:-7.49 
+The predicted pK value is:6.438 
+The predicted dg (kcal/mol) value is:-8.746 
+The predicted pK value is:5.925 
+The predicted dg (kcal/mol) value is:-8.049 
+The predicted pK value is:5.893 
+The predicted dg (kcal/mol) value is:-8.006 
+The predicted pK value is:6.319 
+The predicted dg (kcal/mol) value is:-8.585 
+The predicted pK value is:5.957 
+The predicted dg (kcal/mol) value is:-8.093 
+The predicted pK value is:6.181 
+The predicted dg (kcal/mol) value is:-8.397 
+The predicted pK value is:5.83 
+The predicted dg (kcal/mol) value is:-7.92 
+The predicted pK value is:5.318 
+The predicted dg (kcal/mol) value is:-7.225 
+The predicted pK value is:5.961 
+The predicted dg (kcal/mol) value is:-8.098 
+The predicted pK value is:6.147 
+The predicted dg (kcal/mol) value is:-8.351 
+The predicted pK value is:5.858 
+The predicted dg (kcal/mol) value is:-7.958 
+The predicted pK value is:5.488 
+The predicted dg (kcal/mol) value is:-7.456 
+The predicted pK value is:6.672 
+The predicted dg (kcal/mol) value is:-9.064 
+The predicted pK value is:6.354 
+The predicted dg (kcal/mol) value is:-8.632 
+The predicted pK value is:5.892 
+The predicted dg (kcal/mol) value is:-8.004 
+The predicted pK value is:5.712 
+The predicted dg (kcal/mol) value is:-7.76 
+The predicted pK value is:6.259 
+The predicted dg (kcal/mol) value is:-8.503 
+The predicted pK value is:6.511 
+The predicted dg (kcal/mol) value is:-8.845 
+The predicted pK value is:4.892 
+The predicted dg (kcal/mol) value is:-6.646 
+The predicted pK value is:5.918 
+The predicted dg (kcal/mol) value is:-8.04 
+The predicted pK value is:6.827 
+The predicted dg (kcal/mol) value is:-9.275 
+The predicted pK value is:6.331 
+The predicted dg (kcal/mol) value is:-8.601 
+The predicted pK value is:6.099 
+The predicted dg (kcal/mol) value is:-8.286 
+The predicted pK value is:5.663 
+The predicted dg (kcal/mol) value is:-7.693 
+The predicted pK value is:6.095 
+The predicted dg (kcal/mol) value is:-8.28 
+The predicted pK value is:6.992 
+The predicted dg (kcal/mol) value is:-9.499 
+The predicted pK value is:6.387 
+The predicted dg (kcal/mol) value is:-8.677 
+The predicted pK value is:6.227 
+The predicted dg (kcal/mol) value is:-8.46 
+The predicted pK value is:5.513 
+The predicted dg (kcal/mol) value is:-7.49 
+The predicted pK value is:6.438 
+The predicted dg (kcal/mol) value is:-8.746 
+The predicted pK value is:5.925 
+The predicted dg (kcal/mol) value is:-8.049 
+The predicted pK value is:5.893 
+The predicted dg (kcal/mol) value is:-8.006 
+The predicted pK value is:6.319 
+The predicted dg (kcal/mol) value is:-8.585 
+The predicted pK value is:5.957 
+The predicted dg (kcal/mol) value is:-8.093 
+The predicted pK value is:6.181 
+The predicted dg (kcal/mol) value is:-8.397 
+The predicted pK value is:5.83 
+The predicted dg (kcal/mol) value is:-7.92 
+The predicted pK value is:5.318 
+The predicted dg (kcal/mol) value is:-7.225 
+The predicted pK value is:5.961 
+The predicted dg (kcal/mol) value is:-8.098 
+The predicted pK value is:6.147 
+The predicted dg (kcal/mol) value is:-8.351 
+The predicted pK value is:5.858 
+The predicted dg (kcal/mol) value is:-7.958 
+The predicted pK value is:5.488 
+The predicted dg (kcal/mol) value is:-7.456 
+The predicted pK value is:6.672 
+The predicted dg (kcal/mol) value is:-9.064 
+The predicted pK value is:6.354 
+The predicted dg (kcal/mol) value is:-8.632 
+The predicted pK value is:5.375 
+The predicted dg (kcal/mol) value is:-7.302 
+The predicted pK value is:5.765 
+The predicted dg (kcal/mol) value is:-7.832 
+The predicted pK value is:5.495 
+The predicted dg (kcal/mol) value is:-7.465 
+The predicted pK value is:5.994 
+The predicted dg (kcal/mol) value is:-8.143 
+The predicted pK value is:5.305 
+The predicted dg (kcal/mol) value is:-7.207 
+The predicted pK value is:6.207 
+The predicted dg (kcal/mol) value is:-8.432 
+The predicted pK value is:5.892 
+The predicted dg (kcal/mol) value is:-8.004 
+The predicted pK value is:5.712 
+The predicted dg (kcal/mol) value is:-7.76 
+The predicted pK value is:6.259 
+The predicted dg (kcal/mol) value is:-8.503 
+The predicted pK value is:6.511 
+The predicted dg (kcal/mol) value is:-8.845 
+The predicted pK value is:4.892 
+The predicted dg (kcal/mol) value is:-6.646 
+The predicted pK value is:5.918 
+The predicted dg (kcal/mol) value is:-8.04 
+The predicted pK value is:6.827 
+The predicted dg (kcal/mol) value is:-9.275 
+The predicted pK value is:6.331 
+The predicted dg (kcal/mol) value is:-8.601 
+The predicted pK value is:6.099 
+The predicted dg (kcal/mol) value is:-8.286 
+The predicted pK value is:5.663 
+The predicted dg (kcal/mol) value is:-7.693 
+The predicted pK value is:6.095 
+The predicted dg (kcal/mol) value is:-8.28 
+The predicted pK value is:6.992 
+The predicted dg (kcal/mol) value is:-9.499 
+The predicted pK value is:6.387 
+The predicted dg (kcal/mol) value is:-8.677 
+The predicted pK value is:6.227 
+The predicted dg (kcal/mol) value is:-8.46 
+The predicted pK value is:5.513 
+The predicted dg (kcal/mol) value is:-7.49 
+The predicted pK value is:6.438 
+The predicted dg (kcal/mol) value is:-8.746 
+The predicted pK value is:5.925 
+The predicted dg (kcal/mol) value is:-8.049 
+The predicted pK value is:5.893 
+The predicted dg (kcal/mol) value is:-8.006 
+The predicted pK value is:6.319 
+The predicted dg (kcal/mol) value is:-8.585 
+The predicted pK value is:5.957 
+The predicted dg (kcal/mol) value is:-8.093 
+The predicted pK value is:6.181 
+The predicted dg (kcal/mol) value is:-8.397 
+The predicted pK value is:5.83 
+The predicted dg (kcal/mol) value is:-7.92 
+The predicted pK value is:5.318 
+The predicted dg (kcal/mol) value is:-7.225 
+The predicted pK value is:5.961 
+The predicted dg (kcal/mol) value is:-8.098 
+The predicted pK value is:6.147 
+The predicted dg (kcal/mol) value is:-8.351 
+The predicted pK value is:5.858 
+The predicted dg (kcal/mol) value is:-7.958 
+The predicted pK value is:5.488 
+The predicted dg (kcal/mol) value is:-7.456 
+The predicted pK value is:6.672 
+The predicted dg (kcal/mol) value is:-9.064 
+The predicted pK value is:6.354 
+The predicted dg (kcal/mol) value is:-8.632 
+The predicted pK value is:5.375 
+The predicted dg (kcal/mol) value is:-7.302 
+The predicted pK value is:5.765 
+The predicted dg (kcal/mol) value is:-7.832 
+The predicted pK value is:5.495 
+The predicted dg (kcal/mol) value is:-7.465 
+The predicted pK value is:5.994 
+The predicted dg (kcal/mol) value is:-8.143 
+The predicted pK value is:5.305 
+The predicted dg (kcal/mol) value is:-7.207 
+The predicted pK value is:6.207 
+The predicted dg (kcal/mol) value is:-8.432 
+The predicted pK value is:5.444 
+The predicted dg (kcal/mol) value is:-7.396 
+The predicted pK value is:5.35 
+The predicted dg (kcal/mol) value is:-7.268 
+The predicted pK value is:5.725 
+The predicted dg (kcal/mol) value is:-7.778 
+The predicted pK value is:6.09 
+The predicted dg (kcal/mol) value is:-8.273 
+The predicted pK value is:4.673 
+The predicted dg (kcal/mol) value is:-6.348 
+The predicted pK value is:5.546 
+The predicted dg (kcal/mol) value is:-7.534 
+The predicted pK value is:6.465 
+The predicted dg (kcal/mol) value is:-8.783 
+The predicted pK value is:5.896 
+The predicted dg (kcal/mol) value is:-8.01 
+The predicted pK value is:5.677 
+The predicted dg (kcal/mol) value is:-7.712 
+The predicted pK value is:5.26 
+The predicted dg (kcal/mol) value is:-7.146 
+The predicted pK value is:5.786 
+The predicted dg (kcal/mol) value is:-7.86 
+The predicted pK value is:6.59 
+The predicted dg (kcal/mol) value is:-8.953 
+The predicted pK value is:5.979 
+The predicted dg (kcal/mol) value is:-8.123 
+The predicted pK value is:5.862 
+The predicted dg (kcal/mol) value is:-7.964 
+The predicted pK value is:5.184 
+The predicted dg (kcal/mol) value is:-7.043 
+The predicted pK value is:5.992 
+The predicted dg (kcal/mol) value is:-8.14 
+The predicted pK value is:5.517 
+The predicted dg (kcal/mol) value is:-7.495 
+The predicted pK value is:5.421 
+The predicted dg (kcal/mol) value is:-7.365 
+The predicted pK value is:5.966 
+The predicted dg (kcal/mol) value is:-8.105 
+The predicted pK value is:5.626 
+The predicted dg (kcal/mol) value is:-7.643 
+The predicted pK value is:5.884 
+The predicted dg (kcal/mol) value is:-7.994 
+The predicted pK value is:5.581 
+The predicted dg (kcal/mol) value is:-7.582 
+The predicted pK value is:4.975 
+The predicted dg (kcal/mol) value is:-6.759 
+The predicted pK value is:5.782 
+The predicted dg (kcal/mol) value is:-7.855 
+The predicted pK value is:5.666 
+The predicted dg (kcal/mol) value is:-7.697 
+The predicted pK value is:5.59 
+The predicted dg (kcal/mol) value is:-7.594 
+The predicted pK value is:5.281 
+The predicted dg (kcal/mol) value is:-7.174 
+The predicted pK value is:6.3 
+The predicted dg (kcal/mol) value is:-8.559 
+The predicted pK value is:5.999 
+The predicted dg (kcal/mol) value is:-8.15 
+The predicted pK value is:5.202 
+The predicted dg (kcal/mol) value is:-7.067 
+The predicted pK value is:5.427 
+The predicted dg (kcal/mol) value is:-7.373 
+The predicted pK value is:5.157 
+The predicted dg (kcal/mol) value is:-7.006 
+The predicted pK value is:5.597 
+The predicted dg (kcal/mol) value is:-7.604 
+The predicted pK value is:4.916 
+The predicted dg (kcal/mol) value is:-6.679 
+The predicted pK value is:5.941 
+The predicted dg (kcal/mol) value is:-8.071 
+The predicted pK value is:7.638 
+The predicted dg (kcal/mol) value is:-10.376 
