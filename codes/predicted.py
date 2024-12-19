@@ -81,7 +81,13 @@ def load_checkpoint(filepath):
 #    return model
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu' )
+# Print the device
+print(f"Using device: {device}")
 
+# If using CUDA, you can also print additional details
+if device.type == 'cuda':
+    print(f"CUDA Device Name: {torch.cuda.get_device_name(0)}")
+    print(f"CUDA Device Count: {torch.cuda.device_count()}")
 
 
     
