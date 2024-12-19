@@ -3,6 +3,11 @@ import subprocess
 import pandas as pd
 import sys
 import logging
+
+# Clear existing handlers
+for handler in logging.root.handlers[:]:
+    logging.root.removeHandler(handler)
+
 # Configure logging
 logging.basicConfig(
         filename = 'log.txt',
