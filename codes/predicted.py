@@ -58,27 +58,27 @@ X_prot_phy = np.expand_dims(X_prot_phy, axis=0)
 
 
 # Updated load_checkpoint function
-def load_checkpoint(filepath):
-    map_location = torch.device('cpu') if not torch.cuda.is_available() else None
-    M = torch.load(filepath, map_location=map_location)  # Weights only disabled for trusted source
-    model = M['model']
-    model.load_state_dict(M['model_state_dict'])
-    for parameter in model.parameters():
-        parameter.requires_grad = False
-    model.eval()
-    return model
-
-
-
-
 #def load_checkpoint(filepath):
-#    M = torch.load(filepath)
+#    map_location = torch.device('cpu') if not torch.cuda.is_available() else None
+#    M = torch.load(filepath, map_location=map_location)  # Weights only disabled for trusted source
 #    model = M['model']
 #    model.load_state_dict(M['model_state_dict'])
 #    for parameter in model.parameters():
-#        parameter.requires_grad=False
+#        parameter.requires_grad = False
 #    model.eval()
 #    return model
+
+
+
+
+def load_checkpoint(filepath):
+    M = torch.load(filepath)
+    model = M['model']
+    model.load_state_dict(M['model_state_dict'])
+    for parameter in model.parameters():
+        parameter.requires_grad=False
+    model.eval()
+    return model
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu' )
 
