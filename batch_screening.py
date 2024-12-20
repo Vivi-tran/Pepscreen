@@ -8,6 +8,8 @@ import logging
 for handler in logging.root.handlers[:]:
     logging.root.removeHandler(handler)
 
+sys.stdout.reconfigure(line_buffering=True)  # Auto-flush stdout
+
 # Configure logging
 logging.basicConfig(
         filename = 'log.txt',
@@ -82,7 +84,7 @@ def process_peptides(input_csv, protein_sequence, output_csv):
         # Calculate and display progress
         progress = (idx / total_peptides) * 100
         if int(progress) % 10 == 0:  # Display progress every 10%
-            print(f"Progress: {int(progress)}% complete.")
+            print(f"Progress: {int(progress)}% complete.", flush=True)
             logging.info(f"Progress: {int(progress)}% complete.")
 
     # Save results to CSV
