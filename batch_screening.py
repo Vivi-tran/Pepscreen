@@ -8,8 +8,6 @@ import logging
 for handler in logging.root.handlers[:]:
     logging.root.removeHandler(handler)
 
-sys.stdout.reconfigure(line_buffering=True)  # Auto-flush stdout
-
 # Configure logging
 logging.basicConfig(
         filename = 'log.txt',
