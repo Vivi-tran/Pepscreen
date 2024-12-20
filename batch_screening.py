@@ -77,6 +77,12 @@ def process_peptides(input_csv, protein_sequence, output_csv):
             'pred_pK': pred_pK,
             'pred_dG': pred_dG
         })
+        
+        # Calculate and display progress
+        progress = (idx / total_peptides) * 100
+        if int(progress) % 10 == 0:  # Display progress every 10%
+            print(f"Progress: {int(progress)}% complete.")
+            logging.info(f"Progress: {int(progress)}% complete.")
 
     # Save results to CSV
     output_df = pd.DataFrame(results)
