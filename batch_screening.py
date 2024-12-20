@@ -35,6 +35,7 @@ def process_peptides(input_csv, protein_sequence, output_csv):
 
     # Prepare output list
     results = []
+    total_peptides = len(df)
 
     for idx, row in df.iterrows():
         peptide_id = row['id']
